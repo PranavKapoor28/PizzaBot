@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "buddy-bot-287914",
+  "private_key_id": "977300c6a7bf0ed06bb163b59be36dded2e05ab7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDlmzbtOSX1jjc6\n3ObX3gPp5ckUbVJ9aRyoKhmoj+2j6qwOQJqEsB3P3WrEoYrkW2dnUqTUO3r/lJ/U\n2C226+GhJAzIlR46ygevJGOzeBG8BLfsBH4Bmoj/nJM5nTHe6MIKQ7b+uEiOzYCi\nofmvjTC9abWJALwIVYXF1R/qMRGN1KwHybOPP0PbuKGPuTNIsjs0EiGqQ6loORVM\nVoxeNSmOtj3xg9JN4mL3O3TeRAVjYBN9SDAx0M8+Vh/9jXscqfaySOcJ2Or0uPgz\nfl+NqaEwTj4ivevLIMZc4u4FwsrmCK3wM1ztZRu5SmCyBlg6pwIBEjMBLXDxWFV3\nSPrpuaa7AgMBAAECggEARWyxJvloqN7fhETW596RgF+idTK5BoKJz68rIvSh/jYu\n4ABYuFYoLXndlqbhwDqDAZLTk/iIME9YJJtY9z5LctXbp6qvAUelGyf9nX5onlku\n44ZYM1PuqJtHSNxm/+eRBFmFM2+1QLiSdJpVTOd8HUmhQlOeh0aUtETE6aL8k81v\nuUO4H+xHVxsjy5E0+NHpRqOXd5F6Zv0rlh6RYRloRjUFAy67Wy/juK/Rr8Ds/CcK\nnFEwul/tb/WmF+VT80zQU3hyNnfE220oGKRx3sbWkqThg0J4NdhpDLfDukDGKuOu\n5/KpXFZq+kK2Kak5yxdenZCo6X3G6QSzRbX7S8DewQKBgQDzFECEa4cwy5GlKm/1\nFMFo/PdzUjdZmXMAa7gYTl+gmID4/ViSMy+uV5dkxvJogYM7PiA3anQZ3OGLusTa\nbvYGWgQQrmjSB6dyMeEe8Ixro/ld3pBeFPYXRT9M2q2lJF6H27ROkFM2EFBgU1O2\nhLjSuheZyb5CjcDV+YxSwIcOpQKBgQDxz6Dv134aqtYgyrZFaUi+4axuH0vY2Emd\nJ5fYa3hl7kj3v4PXSCFojMkII3r+yxLPUK06q6fY1Nu/mLo2UomfG30XEZ6qZxmK\nEL+ITC5mT4RCp4zMVo8nvWdEVUuBLLZSKfkYtilDY/fTWxahcrzCzGoHxi3BRCBh\n5tQawSxB3wKBgQDL042N/ERuTCSipIUgsvjDOmucTbKP9TYTgj/qUb2qAncTUgz0\n+urefCA8pv4ZV5BdGukUzrTwAuE1s7ThnO27wbtq6XSHuVdVUDH/KaH1mJe/eKMB\n4P3B4ZUEstGsimSh8z6sKiU8Tk23l+e4Qm5gdR7ZG+voDslGI2zg7wPQ6QKBgHYF\npARMBlWXuklpB0ublpDr7tAU4F0nO87Di15rHemKQv0A8aV6pCu2Q0yAnMCNd1HO\ni65OJ+8x/UtnjMOEx3zr2sMOq4V6KsHzaLhqjl8LQn+R7auyN87qp+N3ShHzM82o\nhNbl2f/1Y/k5xTLpoG3nfXzr4lspGDEQi8e/Lw27AoGAMbx5oZxgRVC74EdgViQF\n4LW8Zw1Hd5uscEYK8VHi/ypCR9+Xing7gYoou/lOnxwdOlAZ+cxaWjef9NO6+YrA\nTQn9OW4KFaR2w7vTYxr5SQygTi2YDhRhhYL2RaTifLPaG0Xl8BHdEyyA2Hoa6LMM\nHd2eJj+nvk2Ku65TlVGEc38=\n-----END PRIVATE KEY-----\n",
+  "client_email": "buddy-chatbot@buddy-bot-287914.iam.gserviceaccount.com",
+  "client_id": "105807041516346955314",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/buddy-chatbot%40buddy-bot-287914.iam.gserviceaccount.com"
+}
